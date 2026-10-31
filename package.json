@@ -2,7 +2,7 @@
   "name": "feedback-project",
   "version": "1.0.0",
   "description": "A professional, modern **Customer Feedback Analysis and Sentiment Analytics Dashboard** built using **HTML5, CSS3, Vanilla JavaScript (ES6+), and Chart.js**.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
